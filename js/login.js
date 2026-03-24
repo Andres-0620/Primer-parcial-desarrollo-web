@@ -9,7 +9,7 @@ let clave = document.getElementById("pass").value
 
 if(usuario === "admin" && clave === "1234"){
 
-window.location.href = "./index.html"
+window.location.href = "./index1.html"
 
 }else{
 
